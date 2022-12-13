@@ -1,0 +1,100 @@
+VH,HomeTeam,AwayTeam,Conference
+N,Vermont,Hartford,America East
+N,CentralFlorida,SouthFlorida,The American
+N,Cincinnati,BYE,The American
+N,Connecticut,Tulane,The American
+N,WichitaSt,BYE,The American
+N,SMU,Temple,The American
+N,Houston,BYE,The American
+N,Memphis,EastCarolina,The American
+N,Tulsa,BYE,The American
+N,FloridaSt,Clemson,ACC
+N,Duke,NCSt,ACC
+N,Louisville,Syracuse,ACC
+N,Virginia,NotreDame,ACC
+N,Massachusetts,VaCommonwealth,A-10
+N,Dayton,BYE,A-10
+N,GeorgeMason,StBonaventure,A-10
+N,SaintLouis,BYE,A-10
+N,Duquesne,Fordham,A-10
+N,RhodeIsland,BYE,A-10
+N,Davidson,LaSalle,A-10
+N,Richmond,BYE,A-10
+N,Creighton,StJohns,Big East
+N,Butler,Providence,Big East
+N,Villanova,Depaul,Big East
+N,Marquette,SetonHall,Big East
+N,EasternWashington,SacramentoSt,Big Sky
+N,MontanaSt,PortlandSt,Big Sky
+N,Montana,IdahoSt,Big Sky
+N,NoColorado,SouthernUtah,Big Sky
+N,Michigan,Rutgers,Big Ten
+N,Wisconsin,BYE,Big Ten
+N,Iowa,Minnesota,Big Ten
+N,Illinois,BYE,Big Ten
+N,Purdue,OhioSt,Big Ten
+N,MichiganSt,BYE,Big Ten
+N,PennSt,Indiana,Big Ten
+N,Maryland,BYE,Big Ten
+N,TexasTech,Texas,Big 12
+N,Kansas,OklahomaSt,Big 12
+N,Baylor,KansasSt,Big 12
+N,WestVirginia,Oklahoma,Big 12
+N,CalIrvine,LongBeachSt,Big West
+N,Hawaii,UCDavis,Big West
+N,CalSantaBarb,CalRiverside,Big West
+N,CSNorthridge,CSFullerton,Big West
+N,NorthTexas,FlaAtlantic,Conference USA
+N,CharlotteU,FloridaIntl,Conference USA
+N,WesternKentucky,UAB,Conference USA
+N,LouisianaTech,Marshall,Conference USA
+N,Yale,Pennsylvania,Ivy League
+N,Harvard,Princeton,Ivy League
+N,Siena,BYE,MAAC
+N,Monmouth,Quinnipiac,MAAC
+N,StPeters,BYE,MAAC
+N,Rider,Niagara,MAAC
+N,Akron,Ohio,MAC
+N,NoIllinois,MiamiOhio,MAC
+N,BowlingGreen,Toledo,MAC
+N,BallSt,KentSt,MAC
+N,NCCentral,BYE,MEAC
+N,MorganSt,BethuneCookman,MEAC
+N,NCarolinaAT,BYE,MEAC
+N,SoCarolinaSt,NorfolkSt,MEAC
+N,Oregon,OregonSt,Pac-12
+N,USC,Arizona,Pac-12
+N,UCLA,California,Pac-12
+N,ArizonaSt,WashingtonSt,Pac-12
+N,Alabama,Tennessee,SEC
+N,Kentucky,BYE,SEC
+N,Florida,Georgia,SEC
+N,MississippiSt,BYE,SEC
+N,SouthCarolina,Arkansas,SEC
+N,LSU,BYE,SEC
+N,Missouri,TexasAM,SEC
+N,Auburn,BYE,SEC
+N,SamHoustonSt,NorthwesternSt,Southland
+N,StephenFAustin,BYE,Southland
+N,NichollsSt,Lamar,Southland
+N,AbileneChristian,BYE,Southland
+N,PrairieViewAM,JacksonSt,SWAC
+N,Southern,TexasSouthern,SWAC
+N,ArkansasLR,GeorgiaSouthern,Sun Belt
+N,SouthAlabama,TexasSt,Sun Belt
+N,NewMexicoSt,ChicagoSt,WAC
+N,GrandCanyon,UMKC,WAC
+N,Seattle,UtahValley,WAC
+N,UTRioGrandeValley,CSBakersfield,WAC
+N,Liberty,BYE,ASUN
+N,Winthrop,BYE,Big South
+N,Hofstra,BYE,CAA
+N,NorthernKentucky,BYE,Horizon League
+N,Bradley,BYE,Missouri Valley
+N,UtahSt,BYE,Mountain West
+N,RobertMorris,BYE,Northeast
+N,Belmont,BYE,Ohio Valley
+N,BostonU,BYE,Patriot League
+N,ETennesseeSt,BYE,Southern
+N,NorthDakotaSt,BYE,The Summit
+N,Gonzaga,BYE,West Coast
