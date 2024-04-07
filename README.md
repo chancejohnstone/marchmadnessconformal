@@ -200,9 +200,8 @@ Semiparametric Prediction Intervals.” PhD thesis, Iowa State University.
 
 <div id="ref-johnstone2022ncaa_cpd" class="csl-entry">
 
-Johnstone, Chancellor, and Dan Nettleton. 2022. “Using Conformal Win
-Probability to Predict the Winners of the Cancelled 2020 NCAA Basketball
-Tournaments.”
+Johnstone, Chancellor, and Dan Nettleton. "Using Conformal Win Probability to Predict the Winners of the Canceled 2020 NCAA Basketball Tournaments." The American Statistician (2023): 1-14.
+<https://www.tandfonline.com/doi/full/10.1080/00031305.2023.2283199>
 
 </div>
 
