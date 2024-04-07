@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this repo, please use the following citation."
+authors:
+  - family-names: Johnstone
+    given-names: Chancellor
+    orcid: https://orcid.org/0000-0002-2185-2208
+title: "Using Conformal Win Probability to Predict the Winners of the Canceled 2020 NCAA Basketball Tournaments"
+date-released: 2022-03-29
